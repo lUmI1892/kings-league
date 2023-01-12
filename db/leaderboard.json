@@ -1,110 +1,266 @@
 [
   {
-    "team": "Ultimate Móstoles",
     "wins": 2,
     "loses": 0,
     "scoredGoals": 8,
     "concededGoals": 3,
     "yellowCard": 1,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "/ultimate-mostoles.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "1K FC",
     "wins": 2,
     "loses": 0,
     "scoredGoals": 7,
     "concededGoals": 4,
     "yellowCard": 0,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "/1k.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "Saiyans FC",
     "wins": 2,
     "loses": 0,
     "scoredGoals": 5,
     "concededGoals": 3,
     "yellowCard": 3,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "saiyans-fc",
+      "name": "Saiyans FC",
+      "image": "/saiyans.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "Kunisports",
     "wins": 2,
     "loses": 0,
     "scoredGoals": 3,
     "concededGoals": 1,
     "yellowCard": 1,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "/kunisport.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "El Barrio",
     "wins": 1,
     "loses": 1,
     "scoredGoals": 7,
     "concededGoals": 3,
     "yellowCard": 1,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "/el-barrio.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "Los Troncos FC",
     "wins": 1,
     "loses": 1,
     "scoredGoals": 8,
     "concededGoals": 8,
     "yellowCard": 1,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "/los-troncos.png",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "Porcinos FC",
     "wins": 1,
     "loses": 1,
     "scoredGoals": 7,
     "concededGoals": 7,
     "yellowCard": 1,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "porcinos-fc",
+      "name": "Porcinos FC",
+      "image": "/porcinos.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "Rayo de Barcelona",
     "wins": 1,
     "loses": 1,
     "scoredGoals": 7,
     "concededGoals": 7,
     "yellowCard": 0,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "/rayo-barcelona.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "Jijantes FC",
     "wins": 0,
     "loses": 2,
     "scoredGoals": 4,
     "concededGoals": 7,
     "yellowCard": 2,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "/jijantes.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "XBUYER TEAM",
     "wins": 0,
     "loses": 2,
     "scoredGoals": 3,
     "concededGoals": 6,
     "yellowCard": 1,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "/xbuyer-team.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "Aniquiladores FC",
     "wins": 0,
     "loses": 2,
     "scoredGoals": 3,
     "concededGoals": 8,
     "yellowCard": 0,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "/aniquiladores.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   },
   {
-    "team": "PIO FC",
     "wins": 0,
     "loses": 2,
     "scoredGoals": 1,
     "concededGoals": 6,
     "yellowCard": 3,
-    "redCard": 0
+    "redCard": 0,
+    "team": {
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "/pio.svg",
+      "url": "",
+      "president": "???",
+      "channel": "https://twich.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ],
+      "players": []
+    }
   }
 ]
