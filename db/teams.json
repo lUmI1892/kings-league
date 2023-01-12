@@ -2,7 +2,7 @@
     {
         "id":"ultimate-mostoles",
         "name":"Ultimate Móstoles",
-        "image":"/ultimate-mostoles.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/ultimate-mostoles.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -16,7 +16,7 @@
     {
         "id":"1k",
         "name":"1K FC",
-        "image":"/1k.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/1k.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -30,7 +30,7 @@
     {
         "id":"saiyans-fc",
         "name":"Saiyans FC",
-        "image":"/saiyans.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/saiyans.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -44,7 +44,7 @@
     {
         "id":"kunisports",
         "name":"Kunisports",
-        "image":"/kunisport.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/kunisport.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -58,7 +58,7 @@
     {
         "id":"el-barrio",
         "name":"El Barrio",
-        "image":"/el-barrio.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/el-barrio.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -72,7 +72,7 @@
     {
         "id":"los-troncos-fc",
         "name":"Los Troncos FC",
-        "image":"/los-troncos.png",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/los-troncos.png",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -86,7 +86,7 @@
     {
         "id":"porcinos-fc",
         "name":"Porcinos FC",
-        "image":"/porcinos.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/porcinos.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -100,7 +100,7 @@
     {
         "id":"rayo-barcelona",
         "name":"Rayo de Barcelona",
-        "image":"/rayo-barcelona.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/rayo-barcelona.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -114,7 +114,7 @@
     {
         "id":"jijantes-fc",
         "name":"Jijantes FC",
-        "image":"/jijantes.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/jijantes.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -128,7 +128,7 @@
     {
         "id":"xbuyer-team",
         "name":"XBUYER TEAM",
-        "image":"/xbuyer-team.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/xbuyer-team.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -142,7 +142,7 @@
     {
         "id":"aniquiladores-fc",
         "name":"Aniquiladores FC",
-        "image":"/aniquiladores.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/aniquiladores.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
@@ -156,7 +156,7 @@
     {
         "id":"pio-fc",
         "name":"PIO FC",
-        "image":"/pio.svg",
+        "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/pio.svg",
         "url":"",
         "president":"???",
         "channel":"https://twich.tv/1k",
