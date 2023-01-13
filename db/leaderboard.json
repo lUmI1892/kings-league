@@ -11,14 +11,19 @@
       "name": "Ultimate Móstoles",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/ultimate-mostoles.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "djmariio",
+        "name": "DjMaRiiO",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/djmariio.png",
+        "teamId": "ultimate-mostoles"
+      }
     }
   },
   {
@@ -33,14 +38,19 @@
       "name": "1K FC",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/1k.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "iker-casillas",
+        "name": "Iker Casillas",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/iker-casillas.png",
+        "teamId": "1k"
+      }
     }
   },
   {
@@ -55,14 +65,19 @@
       "name": "Saiyans FC",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/saiyans.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/thegrefg.png",
+        "teamId": "saiyans-fc"
+      }
     }
   },
   {
@@ -77,14 +92,19 @@
       "name": "Kunisports",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/kunisport.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "kun-aguero",
+        "name": "Kun Agüero",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/kun-aguero.png",
+        "teamId": "kunisports"
+      }
     }
   },
   {
@@ -99,14 +119,19 @@
       "name": "El Barrio",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/el-barrio.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/adri-contreras.png",
+        "teamId": "el-barrio"
+      }
     }
   },
   {
@@ -121,14 +146,19 @@
       "name": "Los Troncos FC",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/los-troncos.png",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/perxitaa.png",
+        "teamId": "los-troncos-fc"
+      }
     }
   },
   {
@@ -143,14 +173,19 @@
       "name": "Porcinos FC",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/porcinos.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "ibai-llanos",
+        "name": "Ibai Llanos",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/ibai-llanos.png",
+        "teamId": "porcinos-fc"
+      }
     }
   },
   {
@@ -165,14 +200,19 @@
       "name": "Rayo de Barcelona",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/rayo-barcelona.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "spursito",
+        "name": "Spursito",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/spursito.png",
+        "teamId": "rayo-barcelona"
+      }
     }
   },
   {
@@ -187,14 +227,19 @@
       "name": "Jijantes FC",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/jijantes.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "gerard-romero",
+        "name": "Gerard Romero",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/gerard-romero.png",
+        "teamId": "jijantes-fc"
+      }
     }
   },
   {
@@ -209,14 +254,19 @@
       "name": "XBUYER TEAM",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/xbuyer-team.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/hnos-buyer.png",
+        "teamId": "xbuyer-team"
+      }
     }
   },
   {
@@ -231,14 +281,19 @@
       "name": "Aniquiladores FC",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/aniquiladores.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "juan-guarnizo",
+        "name": "Juan Guarnizo",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/juan-guarnizo.png",
+        "teamId": "aniquiladores-fc"
+      }
     }
   },
   {
@@ -253,14 +308,19 @@
       "name": "PIO FC",
       "image": "https://kings-league-api.miguel18592.workers.dev/static/logos/pio.svg",
       "url": "",
-      "president": "???",
       "channel": "https://twich.tv/1k",
       "coach": "???",
       "socialNetworks": [
         "https://www.twitch.tv/ibai",
         "https://twitter.com/FCPorcinos"
       ],
-      "players": []
+      "players": [],
+      "president": {
+        "id": "rivers",
+        "name": "Rivers",
+        "image": "https://kings-league-api.miguel18592.workers.dev/static/presidents/rivers.png",
+        "teamId": "pio-fc"
+      }
     }
   }
 ]
