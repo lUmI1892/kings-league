@@ -4,7 +4,7 @@
         "name":"Ultimate Móstoles",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/ultimate-mostoles.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"djmariio",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -18,7 +18,7 @@
         "name":"1K FC",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/1k.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"iker-casillas",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -32,7 +32,7 @@
         "name":"Saiyans FC",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/saiyans.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"thegrefg",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -46,7 +46,7 @@
         "name":"Kunisports",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/kunisport.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"kun-aguero",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -60,7 +60,7 @@
         "name":"El Barrio",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/el-barrio.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"adri-contreras",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -74,7 +74,7 @@
         "name":"Los Troncos FC",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/los-troncos.png",
         "url":"",
-        "president":"???",
+        "presidentId":"perxitaa",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -88,7 +88,7 @@
         "name":"Porcinos FC",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/porcinos.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"ibai-llanos",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -102,7 +102,7 @@
         "name":"Rayo de Barcelona",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/rayo-barcelona.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"spursito",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -116,7 +116,7 @@
         "name":"Jijantes FC",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/jijantes.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"gerard-romero",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -130,7 +130,7 @@
         "name":"XBUYER TEAM",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/xbuyer-team.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"hnos-buyer",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -144,7 +144,7 @@
         "name":"Aniquiladores FC",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/aniquiladores.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"juan-guarnizo",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
@@ -158,7 +158,7 @@
         "name":"PIO FC",
         "image":"https://kings-league-api.miguel18592.workers.dev/static/logos/pio.svg",
         "url":"",
-        "president":"???",
+        "presidentId":"rivers",
         "channel":"https://twich.tv/1k",
         "coach":"???",
         "socialNetworks":[
